@@ -19,4 +19,4 @@ A reproducible time-series research pipeline testing whether sparse cross-asset 
 
 ## Focus
 
-Data and business analytics · decision-support tools · applied machine learning · time series · geospatial analysis · Power BI
+Data and business analytics · financial data and risk analytics · decision-support tools · applied machine learning · time series · geospatial analysis · Power BI
