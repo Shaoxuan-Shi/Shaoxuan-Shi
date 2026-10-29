@@ -4,7 +4,7 @@ Data Science and Business Analytics graduate focused on turning operational and 
 
 ## Featured projects
 
-### [Amsterdam OOH Location Intelligence](https://github.com/Shaoxuan-Shi/ai-location-intelligence-ads)
+### [Amsterdam Outdoor Advertising Location Intelligence](https://github.com/Shaoxuan-Shi/ai-location-intelligence-ads)
 
 An end-to-end location intelligence product for screening outdoor advertising sites in Amsterdam. It combines public pedestrian counts, geospatial context, uncertainty evidence, and campaign-specific ranking in an interactive dashboard.
 
